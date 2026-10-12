@@ -39,7 +39,7 @@ return {
         type = "DEMO",
         expiry = "2026-10-14",
         valid = true,
-        max_devices = 5,
+        max_devices = 15,
         SLOT = "2"
     },
     ["EURO"] = {
