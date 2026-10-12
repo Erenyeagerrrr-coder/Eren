@@ -19,6 +19,14 @@ return {
         SLOT = "5"
     },
 
+["DUA"] = {
+        type = "DEMO",
+        expiry = "2027-10-11",
+        valid = true,
+        max_devices = 1,
+        SLOT = "6"
+    },
+
 
    ["THUG"] = {
         type = "DEMO",
