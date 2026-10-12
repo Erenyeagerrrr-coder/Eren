@@ -3,10 +3,10 @@
 -- max_devices = 20 (matlab 20 phones mein chalegi)
 
 return {
-    ["EREN"] = {
+    ["ERN"] = {
         type = "DEMO",
-        expiry = "2026-10-11",
-        valid = false,
+        expiry = "2026-11-11",
+        valid = true,
         max_devices = 1,
         SLOT = "1"
     },
