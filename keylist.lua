@@ -35,9 +35,9 @@ return {
         max_devices = 3,
         SLOT = "4"
     },
-    ["DEMO123"] = {
+    ["IAMGAY"] = {
         type = "DEMO",
-        expiry = "2026-08-01",
+        expiry = "2027-08-01",
         valid = true,
         max_devices = 5,
         SLOT = "2"
