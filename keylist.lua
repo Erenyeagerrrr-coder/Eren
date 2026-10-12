@@ -6,15 +6,15 @@ return {
     ["EREN"] = {
         type = "DEMO",
         expiry = "2026-10-11",
-        valid = true,
-        max_devices = 100,
+        valid = false,
+        max_devices = 1,
         SLOT = "1"
     },
 
 ["ERENV22"] = {
         type = "DEMO",
         expiry = "2026-10-11",
-        valid = true,
+        valid = false,
         max_devices = 1,
         SLOT = "5"
     },
