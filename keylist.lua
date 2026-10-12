@@ -37,7 +37,7 @@ return {
     },
     ["IAMGAY"] = {
         type = "DEMO",
-        expiry = "2027-08-01",
+        expiry = "2026-10-14",
         valid = true,
         max_devices = 5,
         SLOT = "2"
