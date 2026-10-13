@@ -28,10 +28,10 @@ return {
     },
 
 
-   ["THUG"] = {
+   ["."] = {
         type = "DEMO",
         expiry = "2027-10-10",
-        valid = true,
+        valid = false,
         max_devices = 3,
         SLOT = "4"
     },
