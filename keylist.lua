@@ -42,11 +42,11 @@ return {
         max_devices = 1,
         SLOT = "1"
     },
-   ["ILOVEYOU"] = {
-        type = "DEMO",
+   ["ERENX98"] = {
+        type = "VIP",
         expiry = "2027-10-10",
         valid = true,
-        max_devices = 3,
+        max_devices = 1,
         SLOT = "4"
     },
     ["IAMGAY"] = {
