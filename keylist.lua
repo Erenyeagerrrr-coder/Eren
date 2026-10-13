@@ -28,7 +28,7 @@ return {
     },
 
 
-   ["MAHNOORXSAQLAIN"] = {
+   ["ILOVEYOU"] = {
         type = "DEMO",
         expiry = "2027-10-10",
         valid = true,
