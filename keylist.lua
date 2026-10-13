@@ -28,7 +28,7 @@ return {
     },
 
 
-   ["EREN-V2"] = {
+   ["MAHNOORXSAQLAIN"] = {
         type = "DEMO",
         expiry = "2027-10-10",
         valid = true,
