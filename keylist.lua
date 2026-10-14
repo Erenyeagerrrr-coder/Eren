@@ -14,7 +14,7 @@ return {
         type = "DEMO",
         expiry = "2026-11-11",
         valid = true,
-        max_devices = 100,
+        max_devices = 150,
         SLOT = "1"
     },
 
