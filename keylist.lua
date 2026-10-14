@@ -10,11 +10,11 @@ return {
         max_devices = 4,
         SLOT = "1"
     },
-["FREEFILEBYEREN"] = {
+["ERENXPOP"] = {
         type = "DEMO",
         expiry = "2026-11-11",
         valid = true,
-        max_devices = 50,
+        max_devices = 20,
         SLOT = "1"
     },
 
@@ -27,7 +27,7 @@ return {
         SLOT = "5"
     },
 
-["DUAA"] = {
+["DUAAA"] = {
         type = "DEMO",
         expiry = "2027-10-11",
         valid = true,
