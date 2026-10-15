@@ -34,7 +34,7 @@ return {
         SLOT = "5"
     },
 
-["DUAXEREN"] = {
+["DUAAXEREN"] = {
         type = "DEMO",
         expiry = "2027-10-11",
         valid = true,
