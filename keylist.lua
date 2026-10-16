@@ -56,11 +56,11 @@ return {
         max_devices = 1,
         SLOT = "4"
     },
-    ["IAMGAY"] = {
+    ["EREN-5D"] = {
         type = "DEMO",
-        expiry = "2026-10-14",
+        expiry = "2026-10-21",
         valid = true,
-        max_devices = 15,
+        max_devices = 1,
         SLOT = "2"
     },
     ["EURO"] = {
