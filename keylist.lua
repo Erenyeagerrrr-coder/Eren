@@ -17,10 +17,10 @@ return {
         max_devices = 1,
         SLOT = "1"
     },
-["ERENXPOPV2"] = {
+["EREN_XPOPV2"] = {
         type = "DEMO",
         expiry = "2026-11-11",
-        valid = true,
+        valid = false,
         max_devices = 50,
         SLOT = "1"
     },
