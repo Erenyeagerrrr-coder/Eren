@@ -34,7 +34,7 @@ return {
         SLOT = "5"
     },
 
-["EREN-POP-UC"] = {
+["ERENXDUA"] = {
         type = "DEMO",
         expiry = "2027-10-11",
         valid = true,
