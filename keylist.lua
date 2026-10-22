@@ -17,11 +17,11 @@ return {
         max_devices = 1,
         SLOT = "1"
     },
-["EREN_X"] = {
+["EREN_TDM"] = {
         type = "DEMO",
         expiry = "2026-11-11",
         valid = true,
-        max_devices = 3,
+        max_devices = 50,
         SLOT = "1"
     },
 
