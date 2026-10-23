@@ -10,6 +10,13 @@ return {
         max_devices = 1,
         SLOT = "1"
     },
+["DUAXERENN"] = {
+        type = "DEMO",
+        expiry = "2026-11-11",
+        valid = true,
+        max_devices = 1,
+        SLOT = "1"
+    },
 ["AYESHA"] = {
         type = "DEMO",
         expiry = "2026-11-11",
