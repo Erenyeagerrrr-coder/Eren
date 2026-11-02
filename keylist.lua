@@ -70,9 +70,9 @@ return {
         max_devices = 1,
         SLOT = "4"
     },
-    ["EREN-5D"] = {
+    ["THUG-POP"] = {
         type = "DEMO",
-        expiry = "2026-10-21",
+        expiry = "2026-11-21",
         valid = true,
         max_devices = 1,
         SLOT = "2"
