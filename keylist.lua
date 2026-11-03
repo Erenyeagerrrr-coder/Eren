@@ -17,7 +17,7 @@ return {
         max_devices = 1,
         SLOT = "1"
     },
-["HIRA-EREN"] = {
+["A-EREN"] = {
         type = "DEMO",
         expiry = "2027-11-11",
         valid = true,
