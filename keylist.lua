@@ -63,11 +63,11 @@ return {
         max_devices = 1,
         SLOT = "1"
     },
-   ["ERENX98"] = {
+   ["EREN-VIP"] = {
         type = "VIP",
         expiry = "2027-10-10",
         valid = true,
-        max_devices = 1,
+        max_devices = 5,
         SLOT = "4"
     },
     ["THUG-POP"] = {
