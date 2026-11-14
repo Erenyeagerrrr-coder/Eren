@@ -3,11 +3,11 @@ Koromiko keylist.lua - GitHub pe rakho
 -- max_devices = 20 (matlab 20 phones mein chalegi)
 
 return {
-    ["EREN-1D"] = {
+    ["ERENXMENTAL"] = {
         type = "DEMO",
-        expiry = "2026-11-11",
+        expiry = "2027-11-11",
         valid = true,
-        max_devices = 2,
+        max_devices = 1,
         SLOT = "1"
     },
 ["DUA-EREN"] = {
