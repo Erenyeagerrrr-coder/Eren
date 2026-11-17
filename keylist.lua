@@ -10,6 +10,13 @@ return {
         max_devices = 1,
         SLOT = "1"
     },
+["ERENX93"] = {
+        type = "DEMO",
+        expiry = "2027-11-11",
+        valid = true,
+        max_devices = 1,
+        SLOT = "1"
+    },
 ["DUA-EREN"] = {
         type = "DEMO",
         expiry = "2027-11-11",
